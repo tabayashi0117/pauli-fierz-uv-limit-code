@@ -2,10 +2,10 @@
 
 Ancillary code for two companion papers on the spinless Pauli–Fierz model with a sharp ultraviolet cutoff $\Lambda$ (one non-relativistic electron coupled to the quantized transverse electromagnetic field, no external potential):
 
-- **[I]** S. Futakuchi, *The sharp leading asymptotics of the self-energy of the spinless Pauli–Fierz model*, preprint (2026).
-- **[II]** S. Futakuchi, *The effective mass of the Pauli–Fierz electron: a cutoff-independent lower bound and the breakdown of mass renormalization*, preprint (2026).
+- **[I]** S. Futakuchi, *The sharp leading asymptotics of the self-energy of the spinless Pauli–Fierz model*, [arXiv:2610.34122](https://arxiv.org/abs/2610.34122) [math-ph] (2026).
+- **[II]** S. Futakuchi, *The effective mass of the Pauli–Fierz electron: a cutoff-independent lower bound and the breakdown of mass renormalization*, [arXiv:2610.34125](https://arxiv.org/abs/2610.34125) [math-ph] (2026).
 
-The arXiv identifiers will be added here when the papers are posted. The same scripts are included as ancillary files (`anc/`) of the arXiv submissions.
+The same scripts are included as ancillary files (`anc/`) of the arXiv submissions.
 
 ## Contents
 
